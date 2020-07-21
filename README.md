@@ -3,7 +3,7 @@ A script to find VPNs in logs
 
 Head to https://iphub.info/api and grab yourself a free API key, remember to adhere to the rate limiting policies.
 
-Use Excel to create a list of IPs in quotes eg: “1.1.1.1” “2.2.2.2” “3.3.3.3.” and paste into the script, then output into a format that will allow you to search across whatever you are using for analysis.
+Use Excel or similiar to create a list of IPs in quotes eg: “1.1.1.1” “2.2.2.2” “3.3.3.3.” and paste into the script, then output into a format that will allow you to search across whatever you are using for analysis.
 
 Standard output by default is json.
 
